@@ -12,7 +12,7 @@ h1, h2, h3, h4, p, ul, ol, blockquote {
 	padding: 0;
 }
 
-nav ul, nav ol {
+nav ul, nav ol { 
 	list-style-type: none;
 }
 
